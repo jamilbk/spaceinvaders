@@ -1,0 +1,6 @@
+Coded by Jamil Bou Kheir and Bob Yu in 2005
+
+To run:
+
+$ javac SpaceInvaders.java
+$ java SpaceInvaders
